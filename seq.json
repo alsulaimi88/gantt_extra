@@ -1,4 +1,4 @@
-      {
+      [{
         name: "Sprint 0",
         desc: "Analysis",
         values: [
@@ -105,4 +105,4 @@
             customClass: "ganttOrange"
           }
         ]
-      }
+      }]
