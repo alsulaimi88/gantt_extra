@@ -1056,11 +1056,11 @@ th {
   content: "\e260";
 }
 * {
-  -moz-box-sizing: border-box;
+
 }
 *:before,
 *:after {
-  -moz-box-sizing: border-box;
+
 }
 html {
   font-size: 10px;
