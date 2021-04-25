@@ -15,7 +15,7 @@ Bootstrap Admin Template by EGrappler.com
 .shortcuts .shortcut { 
 	width: 22.50%;
 	display: inline-block;
-	padding: 12px 0;
+	padding: 20px 0;
 	margin: 0 .9% 1em;
 	vertical-align: top;	
 	
@@ -35,7 +35,7 @@ Bootstrap Admin Template by EGrappler.com
 }
 
 .shortcuts .shortcut:hover {
-	background: #385773;
+	background:#ffd203;
 }
 
 .shortcuts .shortcut:hover span{
@@ -44,6 +44,10 @@ Bootstrap Admin Template by EGrappler.com
 
 .shortcuts .shortcut:hover .shortcut-icon {
 	color: #fff;
+	font-size: 35px;
+	margin-top: .25em;
+	margin-bottom: .25em;
+	overflow: hidden;
 }
 
 .shortcuts .shortcut-label {
@@ -221,7 +225,7 @@ Bootstrap Admin Template by EGrappler.com
 	border-left: 1px solid #FFF;
 }
 #big_stats  i { font-size:30px; display:block; line-height: 40px; color:#b2afaa;}
-#big_stats .stat:hover i {color:#6387a6;}
+#big_stats .stat:hover i {color:#ffd203;}
 
 h6.bigstats{margin: 20px;
 border-bottom: 1px solid #eee;
