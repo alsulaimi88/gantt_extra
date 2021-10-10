@@ -226,10 +226,31 @@
 }
 
 .fn-gantt .ganttOrange {
-    background-color: #FCD29A;
+    background-color: #FFC000;
 }
 .fn-gantt .ganttOrange .fn-label {
     color: #714715 !important;
+}
+
+.fn-gantt .ganttOrangeLight {
+    background-color: #FFE699;
+}
+.fn-gantt .ganttOrangeLight .fn-label {
+    color: #714715 !important;
+}
+
+.fn-gantt .ganttOrangeDark {
+    background-color: #FFD966;
+}
+.fn-gantt .ganttOrangeDark .fn-label {
+    color: #714715 !important;
+}
+
+.fn-gantt .ganttBlueLight {
+    background-color: #d9e9fc;
+}
+.fn-gantt .ganttBlueLight .fn-label {
+    color: #414B57 !important;
 }
 
 
